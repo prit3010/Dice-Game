@@ -70,7 +70,6 @@ const holding = function () {
 
     }
 }
-    ``
 //Resetting
 const resetting = function () {
     stateOfGame = true;
